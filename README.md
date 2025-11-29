@@ -1,1 +1,1 @@
-Criando primeiro site para testar.
+Praticando html, css e JavaScript.
